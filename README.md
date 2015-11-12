@@ -10,7 +10,7 @@ These are the selling prices in various local markets:
 |---------|--------|-----------|--------|
 | Clams   | 500    | 450       | 600    |
 | Octopus | 0      | 120       | 100    |
-| Crabs   | 450    | 0         |        |
+| Crabs   | 450    | 0         | 500    |
 
 But we must also bear in mind that **loading the van will cost 5€ plus 2€ per km driven**.
 
