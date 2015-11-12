@@ -6,10 +6,11 @@ For the first trip has purchased **50 kg of clams, 100 kg of octopus and other 5
 
 These are the selling prices in various local markets:
 
- €/Kg           | MADRID | BARCELONA | LISBOA
- Clams          |  500   |    450    |  600
- Octopus        |    0   |    120    |  100
- Crabs          |  450   |      0    |  500
+| €/kg    | Madrid | Barcelona | Lisboa |
+|---------|--------|-----------|--------|
+| Clams   | 500    | 450       | 600    |
+| Octopus | 0      | 120       | 100    |
+| Crabs   | 450    | 0         |        |
 
 But we must also bear in mind that **loading the van will cost 5€ plus 2€ per km driven**.
 
